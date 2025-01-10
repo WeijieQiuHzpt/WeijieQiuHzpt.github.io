@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Weijie Qiu"
 title_separator          : "-"
-name                     : &name "Weijie(Andy) Qiu(邱玮杰)"
+name                     : &name ""
 description              : &description "personal description"
 url                      : https://WeijieQiuHzpt.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
