@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN" #"en-US"
-title                    : "Weijie Qiu"
+title                    : "邱玮杰"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "WeijieQiu.png"
-  name             : "Weijie(Andy) Qiu <br>邱玮杰"
+  name             : "邱 玮杰"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Hangzhou, Zhejiang, China"
-  employer         : "Hangzhou Polytechnic"
+  location         : "浙江杭州，中国"
+  employer         : "杭州科技职业技术学院"
   uri              : # URL
   email            : "andyqiuhzpt@gmail.com" 
 
