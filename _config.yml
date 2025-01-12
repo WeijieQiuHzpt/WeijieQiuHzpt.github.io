@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN" #"en-US"
 title                    : "Weijie Qiu"
 title_separator          : "-"
 name                     : &name ""
